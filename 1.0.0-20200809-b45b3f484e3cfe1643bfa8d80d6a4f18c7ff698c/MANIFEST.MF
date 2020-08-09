@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: milenage-osgi
+Bundle-SymbolicName: milenage-osgi
+Bundle-Version: 1.0.0
+Automatic-Module-Name: milenage.osgi
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: threegpp.milenage;version="1.0.0",
+ threegpp.milenage.biginteger;version="1.0.0",
+ threegpp.milenage.cipher;version="1.0.0"
+Bundle-Vendor: Constantin Roganov (MIT License)
